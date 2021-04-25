@@ -6,4 +6,5 @@
   - [宏定义](ShaderLab编程（Built-in）/宏定义.md)
   - [实用函数](ShaderLab编程（Built-in）/实用函数.md)
   - [属性](ShaderLab编程（Built-in）/属性.md)
+  - [平台特定的渲染差异](ShaderLab编程（Built-in）/平台特定的渲染差异.md)
   - [数据类型和精度](ShaderLab编程（Built-in）/数据类型和精度.md)

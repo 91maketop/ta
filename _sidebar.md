@@ -1,4 +1,6 @@
 - [HLSL函数参考](HLSL函数参考.md)
+- [ShaderLab简明手册（URP）](ShaderLab简明手册（URP）/)
+  - [内置升级URP](ShaderLab简明手册（URP）/内置升级URP.md)
 - [ShaderLab简明手册（内置管线）](ShaderLab简明手册（内置管线）/)
   - [Include文件](ShaderLab简明手册（内置管线）/Include文件.md)
   - [变体和关键字](ShaderLab简明手册（内置管线）/变体和关键字.md)

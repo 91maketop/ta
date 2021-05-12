@@ -1,6 +1,7 @@
 - [返回首页](/)
 - [ShaderLab简明手册（内置管线）](ShaderLab简明手册（内置管线）/)
   - [Include文件](ShaderLab简明手册（内置管线）/Include文件.md)
+  - [Shader属性的常用特性](ShaderLab简明手册（内置管线）/Shader属性的常用特性.md)
   - [变体和关键字](ShaderLab简明手册（内置管线）/变体和关键字.md)
   - [变量](ShaderLab简明手册（内置管线）/变量.md)
   - [宏定义](ShaderLab简明手册（内置管线）/宏定义.md)
